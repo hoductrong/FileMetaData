@@ -1,2 +1,2 @@
-# FreeCodeCamp-FileMetaData
-https://freecodecamp-boilerplate-project-filemetadata-3.glitch.me/
+# boilerplate-project-filemetadata
+A boilerplate for a freeCodeCamp project.
